@@ -1,16 +1,15 @@
 ## Connect the mobile robot to the app
-
-### 1. Find the robot IP
+### Find the robot IP
 For this step you can use the following command in the robot terminal.
 ```
 hostname -I
 ```
 <br>
-### 2. Introduce the robot IP and the ROS port
+### Introduce the robot IP and the ROS port
 Write the robot IP find in the first step in the first input field and the ROS port in the second one. The default ROS port is 10000.
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture3.png" alt="Login" width="1200"/>
 <br>
-### 3. UI introduction
+### UI introduction
 3.1. Movemenet panel
 Here you can control the movement of the robot
 <img width="241" height="223" alt="image" src="https://github.com/user-attachments/assets/09b1d955-a6e5-40b1-928c-e70892fee798" />
