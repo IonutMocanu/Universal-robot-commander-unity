@@ -10,10 +10,11 @@ Write the robot IP find in the first step in the first input field and the ROS p
 <p align="center">
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture3.png" alt="Login" width="400"/>
 </p>
+
 ### UI introduction
 
 3.1. Movemenet panel
-Here you can control the movement of the robot
+<p>Here you can control the movement of the robot</p>
 
 <p align="center">
 <img width="241" height="223" alt="image" src="https://github.com/user-attachments/assets/09b1d955-a6e5-40b1-928c-e70892fee798" />
