@@ -8,7 +8,7 @@ This github contains the mobile app for the control of mobile robots which use t
 <br>
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture2-removebg-preview%20(1).png" alt="Login" width="1200"/>
 
-## Live demo
+## Live demo with the old UI
 
 https://github.com/user-attachments/assets/b291580f-9ea5-443d-bf62-e0ac551ab7ef
 
