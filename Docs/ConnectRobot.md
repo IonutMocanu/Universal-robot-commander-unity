@@ -1,4 +1,4 @@
-## Connect the mobile robot to the app
+# Connect the mobile robot to the app
 ### Find the robot IP
 For this step you can use the following command in the robot terminal.
 ```
