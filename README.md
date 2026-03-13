@@ -1,9 +1,10 @@
 # Universal-robot-commander-unity
 
 
-##Introduction
+## Introduction
 This github contains the mobile app for the control of mobile robots which the diff drive controller.  
 
+<img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/Docs/Picture1.png" alt="Login" width="1200"/>
 
 ## Tutorials
 1. How to build the apk of the mobile app in unity.
