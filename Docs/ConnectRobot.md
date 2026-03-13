@@ -1,26 +1,28 @@
 # Connect the mobile robot to the app
-### Find the robot IP
+## Find the robot IP
 For this step you can use the following command in the robot terminal.
 ```
 hostname -I
 ```
-### Introduce the robot IP and the ROS port
+## Introduce the robot IP and the ROS port
 Write the robot IP find in the first step in the first input field and the ROS port in the second one. The default ROS port is 10000.
 
 <p align="center">
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture3.png" alt="Login" width="400"/>
 </p>
 
-### UI introduction
+## UI introduction
 
 3.1. Movemenet panel
-<p>Here you can control the movement of the robot</p>
+
+Here you can control the movement of the robot</p>
 
 <p align="center">
 <img width="241" height="223" alt="image" src="https://github.com/user-attachments/assets/09b1d955-a6e5-40b1-928c-e70892fee798" />
 </p>
 
 3.2. Output stream
+
 The panel where the selected output stream from the bottom meniu is displayed
 
 <p align="center">
@@ -28,6 +30,7 @@ The panel where the selected output stream from the bottom meniu is displayed
 </p>
 
 3.3. Speed Slider
+
 The slider to control the speed of the robot.
 
 > [!WARNING]
@@ -38,6 +41,7 @@ The slider to control the speed of the robot.
 </p>
 
 3.4. Bottom meniu
+
 In this area you select the output stream and also the option to go back in the first scene.
 
 <p align="center">
