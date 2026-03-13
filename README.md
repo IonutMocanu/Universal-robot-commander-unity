@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This github contains the mobile app for the control of mobile robots which the diff drive controller.  
+This github contains the mobile app for the control of mobile robots which use the diff drive controller.  
 
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture1-removebg-preview%20(1).png" alt="Login" width="1200"/>
 <br>
