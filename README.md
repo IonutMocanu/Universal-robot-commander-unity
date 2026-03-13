@@ -6,7 +6,7 @@ This github contains the mobile app for the control of mobile robots which the d
 
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture1-removebg-preview%20(1).png" alt="Login" width="1200"/>
 <br>
-<img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture1-removebg-preview%20(2).png" alt="Login" width="1200"/>
+<img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture2-removebg-preview%20(1).png" alt="Login" width="1200"/>
 
 ## Tutorials
 1. How to build the apk of the mobile app in unity.
