@@ -6,7 +6,9 @@ hostname -I
 ```
 ### Introduce the robot IP and the ROS port
 Write the robot IP find in the first step in the first input field and the ROS port in the second one. The default ROS port is 10000.
+
 <img src="https://github.com/IonutMocanu/Universal-robot-commander-unity/blob/main/Docs/Picture3.png" alt="Login" width="1200"/>
+
 ### UI introduction
 3.1. Movemenet panel
 Here you can control the movement of the robot
