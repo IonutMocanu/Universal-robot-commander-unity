@@ -10,3 +10,5 @@ This github contains the mobile app for the control of mobile robots which the d
 
 ## Documentation
 ### [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub/tree/main)
+Fow this project it was use the ROS-Unity bridge. More info in [ROS-Unity integration setup](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/ros_unity_integration/setup.md)
+
